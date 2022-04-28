@@ -1,0 +1,4 @@
+Temperature: 29 C
+Record 22: 3/4/16 Sun 7:56:56
+Record 23: 3/4/16 Sun 7:57:2
+Record 24: 3/4/16 Sun 7:57:5
